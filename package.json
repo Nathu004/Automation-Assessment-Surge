@@ -1,0 +1,22 @@
+{
+  "name": "automation-assessment-surge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathu004/Automation-Assessment-Surge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathu004/Automation-Assessment-Surge/issues"
+  },
+  "homepage": "https://github.com/Nathu004/Automation-Assessment-Surge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.7"
+  }
+}
